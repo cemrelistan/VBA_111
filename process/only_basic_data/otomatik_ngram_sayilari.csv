@@ -1,0 +1,840 @@
+N-Gram,Frekans
+machine learning,16
+treatment effects,14
+riesz regression,13
+average treatment,11
+treatment effect,11
+synthetic control,11
+debiased machine,10
+debiased machine learning,10
+policy learning,9
+causal inference,8
+riesz representer,8
+average treatment effect,7
+reinforcement learning,6
+household water,6
+covariate balancing,6
+regression functions,6
+estimation inference,6
+european banking,6
+moral concerns,6
+paper proposes,5
+results demonstrate,5
+water consumption,5
+household water consumption,5
+densityratio estimation,5
+test statistics,5
+monte carlo,5
+income distribution,5
+causal effects,5
+previous studies,5
+using data,5
+supply chain,5
+network fragility,5
+systemic risk,5
+social preferences,5
+results highlight,4
+predatory pricing,4
+dynamic oligopoly,4
+finitehorizon dynamic,4
+key findings,4
+direct debiased,4
+regression function,4
+least squares,4
+direct debiased machine,4
+direct debiased machine learning,4
+welfare functional,4
+empirical application,4
+parallel trends,4
+estimate causal,4
+paper develops,4
+exchange rates,4
+value functionals,4
+sample size,4
+labor supply,4
+central bank,4
+effects immigration,4
+environmental information,4
+information disclosure,4
+corporate environmental,4
+environmental information disclosure,4
+vector autoregressions,4
+natural disasters,4
+average treatment effects,4
+neyman targeted,4
+targeted estimation,4
+neyman targeted estimation,4
+potential outcomes,4
+timeseries experiments,4
+case study,4
+framework analyzing,4
+infrastructure systems,4
+continuous functional,4
+contagion dynamics,4
+analysis reveals,4
+representation ratio,4
+digital platform,4
+results indicate,3
+prosocial behavior,3
+two distinct,3
+targeted advertising,3
+optimal mechanism,3
+two key,3
+publicly available,3
+matching estimator,3
+balancing weights,3
+play important,3
+nearest neighbor,3
+neighbor matching,3
+estimation riesz,3
+nearest neighbor matching,3
+conditional average,3
+conditional average treatment,3
+conditional average treatment effect,3
+consumer surplus,3
+instrumental variable,3
+finite sample,3
+job training,3
+income mobility,3
+research design,3
+preliminary tests,3
+parallel trend,3
+acceptable level,3
+prior work,3
+popular mathematical,3
+mathematical puzzles,3
+mathematical thinking,3
+popular mathematical puzzles,3
+control differencing,3
+statistical inference,3
+synthetic control differencing,3
+heterogeneous agents,3
+identification estimation,3
+theoretical results,3
+identification estimation inference,3
+funding levels,3
+global income,3
+global income distribution,3
+llm choices,3
+finite number,3
+aggregate excess,3
+excess demand,3
+demand functions,3
+aggregate excess demand,3
+excess demand functions,3
+aggregate excess demand functions,3
+treatment assignment,3
+general value,3
+asymptotically normal,3
+findings suggest,3
+productivity beliefs,3
+predictive accuracy,3
+distributional assumptions,3
+panel data,3
+regression automatic,3
+automatic debiased,3
+riesz regression automatic,3
+regression automatic debiased,3
+automatic debiased machine,3
+riesz regression automatic debiased,3
+regression automatic debiased machine,3
+automatic debiased machine learning,3
+riesz regression automatic debiased machine,3
+regression automatic debiased machine learning,3
+proportional sharing,3
+efficient extension,3
+extension operator,3
+efficient extension operator,3
+monetary policy,3
+results reveal,3
+energy food,3
+spillover effects,3
+environmental performance,3
+corporate environmental performance,3
+independence assumptions,3
+average causal,3
+causal responses,3
+average causal responses,3
+bregman divergence,3
+representer estimation,3
+riesz representer estimation,3
+macroeconomic forecasting,3
+uncertainty shocks,3
+tukey model,3
+time series,3
+causal impact,3
+statistically significant,3
+artificial intelligence,3
+intelligence systems,3
+task characteristics,3
+artificial intelligence systems,3
+central moments,3
+random variables,3
+shared infrastructure,3
+shared infrastructure systems,3
+autoregressive models,3
+common factors,3
+spatial decay,3
+network contagion,3
+spatial treatment,3
+algebraic connectivity,3
+urban wage,3
+wage growth,3
+rational stagnation,3
+preferences moral,3
+ultimatum game,3
+positive offers,3
+social preferences moral,3
+preferences moral concerns,3
+social preferences moral concerns,3
+nplayers game,3
+closed loop,3
+private information,3
+stochastic learning,3
+cost types,3
+raise awareness,3
+types principal,3
+outside options,3
+emergency medical,3
+medical services,3
+first principles,3
+response times,3
+emergency medical services,3
+instrumental variables,3
+influential sets,3
+transparent models,3
+models llms,3
+receives payout,3
+estimate eventstudy,3
+eventstudy effects,3
+effects complex,3
+complex designs,3
+real datasets,3
+estimate eventstudy effects,3
+eventstudy effects complex,3
+effects complex designs,3
+estimate eventstudy effects complex,3
+eventstudy effects complex designs,3
+estimate eventstudy effects complex designs,3
+delegate pricing,2
+experimental evidence,2
+proposes new,2
+ability prosocial,2
+paper proposes new,2
+ability prosocial behavior,2
+advertising platforms,2
+sharing customer,2
+customer poaching,2
+customer data,2
+market merchants,2
+posted price,2
+exchange market,2
+ctr ads,2
+settings like,2
+targeted advertising platforms,2
+equilibrium analysis,2
+smooth market,2
+market sharing,2
+deep reinforcement,2
+findings first,2
+learning algorithms,2
+oligopoly models,2
+offers new,2
+new insights,2
+smooth market sharing,2
+deep reinforcement learning,2
+finitehorizon dynamic oligopoly,2
+two key findings,2
+key findings first,2
+street view,2
+water use,2
+population density,2
+middle classes,2
+findings demonstrate,2
+unified theory,2
+theory causal,2
+learning via,2
+regression covariate,2
+targeted maximum,2
+maximum likelihood,2
+likelihood estimation,2
+estimation tmle,2
+ate estimation,2
+important roles,2
+biascorrection term,2
+methods estimating,2
+essentially equivalent,2
+special case,2
+squares density,2
+density ratio,2
+ratio estimation,2
+unified theory causal,2
+theory causal inference,2
+machine learning via,2
+riesz regression covariate,2
+regression covariate balancing,2
+targeted maximum likelihood,2
+maximum likelihood estimation,2
+likelihood estimation tmle,2
+least squares density,2
+squares density ratio,2
+density ratio estimation,2
+ratio estimation riesz,2
+estimation riesz regression,2
+unified theory causal inference,2
+debiased machine learning via,2
+riesz regression covariate balancing,2
+targeted maximum likelihood estimation,2
+maximum likelihood estimation tmle,2
+least squares density ratio,2
+squares density ratio estimation,2
+density ratio estimation riesz,2
+ratio estimation riesz regression,2
+direct debiased machine learning via,2
+targeted maximum likelihood estimation tmle,2
+least squares density ratio estimation,2
+squares density ratio estimation riesz,2
+density ratio estimation riesz regression,2
+social welfare,2
+empirical welfare,2
+welfare maximization,2
+recommends treatment,2
+population welfare,2
+ewm approach,2
+plugin approach,2
+one first,2
+effect cate,2
+two approaches,2
+propose novel,2
+empirical welfare maximization,2
+treatment effect cate,2
+average treatment effect cate,2
+conditional average treatment effect cate,2
+food delivery,2
+delivery services,2
+willingness pay,2
+urban planning,2
+food delivery services,2
+political power,2
+voting rights,2
+rights act,2
+younger adults,2
+voting rights act,2
+setting researcher,2
+error term,2
+independent given,2
+proposed tests,2
+training partnership,2
+partnership act,2
+job training partnership,2
+training partnership act,2
+job training partnership act,2
+sustainability contribution,2
+contribution norms,2
+transfer group,2
+feature model,2
+contrast effect,2
+sustainability contribution norms,2
+violations parallel,2
+trends assumption,2
+researchers often,2
+preliminary testing,2
+important role,2
+within research,2
+design propose,2
+preliminary test,2
+case preliminary,2
+mild assumptions,2
+provide consistent,2
+real data,2
+violations parallel trends,2
+estimate causal effects,2
+parallel trends assumption,2
+play important role,2
+within research design,2
+case preliminary tests,2
+also study,2
+effect using,2
+using popular,2
+puzzles mathematical,2
+study effect,2
+control group,2
+analyzed using,2
+effect using popular,2
+using popular mathematical,2
+mathematical puzzles mathematical,2
+puzzles mathematical thinking,2
+effect using popular mathematical,2
+using popular mathematical puzzles,2
+popular mathematical puzzles mathematical,2
+mathematical puzzles mathematical thinking,2
+effect using popular mathematical puzzles,2
+using popular mathematical puzzles mathematical,2
+popular mathematical puzzles mathematical thinking,2
+groupwise matching,2
+trend assumption,2
+differenceindifferences designs,2
+differenceindifferences synthetic,2
+parallel trend assumption,2
+differenceindifferences synthetic control,2
+data center,2
+center execution,2
+execution assurance,2
+external systems,2
+derive closedform,2
+data center execution,2
+center execution assurance,2
+data center execution assurance,2
+price levels,2
+boundary discontinuity,2
+discontinuity designs,2
+sufficient conditions,2
+boundary discontinuity designs,2
+unemployment rates,2
+gdp growth,2
+ccc funding,2
+budget planning,2
+purchasing power,2
+power parity,2
+parity exchange,2
+despite limitations,2
+early years,2
+lognormal distributions,2
+purchasing power parity,2
+power parity exchange,2
+parity exchange rates,2
+purchasing power parity exchange,2
+power parity exchange rates,2
+purchasing power parity exchange rates,2
+agentic economic,2
+economic modeling,2
+agentic economic modeling,2
+number show,2
+full open,2
+open price,2
+price simplex,2
+number equilibria,2
+open dense,2
+dense subset,2
+finite singularity,2
+singularity type,2
+finite number show,2
+full open price,2
+open price simplex,2
+open dense subset,2
+finite singularity type,2
+full open price simplex,2
+welfare value,2
+optimal treatment,2
+asymptotic normality,2
+plugin estimators,2
+estimators provide,2
+nonparametric estimation,2
+consistent variance,2
+finitesample performance,2
+inference procedures,2
+welfare value functionals,2
+optimal treatment assignment,2
+general value functionals,2
+latin monetary,2
+monetary union,2
+positive effect,2
+zero results,2
+results robust,2
+latin monetary union,2
+new methods,2
+methods compensate,2
+artists music,2
+music streaming,2
+streaming platforms,2
+study problem,2
+artists music streaming,2
+music streaming platforms,2
+artists music streaming platforms,2
+senders choice,2
+choice experiment,2
+posterior beliefs,2
+learning rule,2
+bayesian benchmark,2
+many problems,2
+show optimal,2
+experiment results,2
+senders choice experiment,2
+training data,2
+central role,2
+data economics,2
+functions building,2
+automation experiments,2
+automation technologies,2
+tasklevel skills,2
+inequality effect,2
+models parameters,2
+highdosage tutoring,2
+approach study,2
+regression model,2
+administrative data,2
+covid pandemic,2
+decision trees,2
+policy evaluation,2
+modern applications,2
+learning causal,2
+existing approaches,2
+approaches typically,2
+learning methods,2
+unlike existing,2
+moment conditions,2
+machine learning methods,2
+data models,2
+show asymptotically,2
+structural parameters,2
+finally application,2
+panel data models,2
+regression study,2
+estimation new,2
+mean squared,2
+squared error,2
+estimation furthermore,2
+riesz regression study,2
+mean squared error,2
+underlying solution,2
+surplus sharing,2
+sharing method,2
+sharing value,2
+implicit quantile,2
+quantile index,2
+approach derive,2
+policy rule,2
+decision making,2
+inflation unemployment,2
+economic factors,2
+nash equilibrium,2
+mathematical folk,2
+folk puzzles,2
+mathematical folk puzzles,2
+repeated crosssectional,2
+crosssectional data,2
+regional effects,2
+empirical framework,2
+analysis yields,2
+repeated crosssectional data,2
+moment connectedness,2
+energyfood nexus,2
+food markets,2
+across different,2
+findings provide,2
+valuable insights,2
+energy food markets,2
+san juan,2
+economically meaningful,2
+donor pool,2
+sustainable development,2
+practices study,2
+strategic learning,2
+asymmetric rationality,2
+paper analyzes,2
+privately informed,2
+information show,2
+causal interpretation,2
+autoregressions vars,2
+identify average,2
+effects average,2
+estimate average,2
+effects treated,2
+policy design,2
+vector autoregressions vars,2
+identify average treatment,2
+treatment effects average,2
+effects average causal,2
+treatment effects treated,2
+identify average treatment effects,2
+average treatment effects average,2
+treatment effects average causal,2
+effects average causal responses,2
+average treatment effects treated,2
+average treatment effects average causal,2
+treatment effects average causal responses,2
+panel vector,2
+outcome variables,2
+panel vector autoregressions,2
+develop direct,2
+learning framework,2
+estimation generalized,2
+generalized riesz,2
+structural models,2
+parameters interest,2
+neyman orthogonal,2
+nuisance parameters,2
+estimation methods,2
+develop direct debiased,2
+machine learning framework,2
+estimation generalized riesz,2
+generalized riesz regression,2
+develop direct debiased machine,2
+debiased machine learning framework,2
+estimation generalized riesz regression,2
+develop direct debiased machine learning,2
+direct debiased machine learning framework,2
+experimental observational,2
+framework designing,2
+value chain,2
+policy uncertainty,2
+impulse responses,2
+risk management,2
+stage bids,2
+total bids,2
+regression adjustment,2
+statistical efficiency,2
+relationship covariates,2
+covariates potential,2
+observations across,2
+covariate adjustment,2
+relationship covariates potential,2
+covariates potential outcomes,2
+relationship covariates potential outcomes,2
+paper studies,2
+latent characteristics,2
+agent types,2
+two core,2
+matching network,2
+interaction function,2
+interaction parameter,2
+consistent asymptotically,2
+asymptotic distribution,2
+consistent asymptotically normal,2
+statistical methods,2
+grouped patterns,2
+patterns panel,2
+data analysis,2
+available testing,2
+testing frameworks,2
+remainder groups,2
+grouped patterns panel,2
+patterns panel data,2
+grouped patterns panel data,2
+highdimensional disaggregated,2
+control method,2
+computational efficiency,2
+multivariate squareroot,2
+squareroot lasso,2
+estimation error,2
+simulation studies,2
+without compromising,2
+impact covid,2
+synthetic control method,2
+multivariate squareroot lasso,2
+causal impact covid,2
+effect statistically,2
+estimate causal impact,2
+study investigates,2
+intrinsic task,2
+key dimensions,2
+task archetypes,2
+intrinsic task characteristics,2
+stability matching,2
+incomplete information,2
+stability icps,2
+bayesian stability,2
+stability testing,2
+welfare improvement,2
+general random,2
+general random variables,2
+robustness shared,2
+systems infrastructure,2
+dynamic model,2
+private infrastructure,2
+decreases robustness,2
+tax increases,2
+robustness shared infrastructure,2
+robustness shared infrastructure systems,2
+spatial interdependence,2
+panel spatial,2
+spatial autoregressive,2
+latent common,2
+panel spatial autoregressive,2
+spatial autoregressive models,2
+latent common factors,2
+panel spatial autoregressive models,2
+technology diffusion,2
+approaches spatial,2
+technology adoption,2
+adoption spreads,2
+chain connections,2
+decay rate,2
+connectivity lambda,2
+traditional differenceindifferences,2
+differenceindifferences methods,2
+network contagion dynamics,2
+spatial treatment effects,2
+supply chain connections,2
+algebraic connectivity lambda,2
+distributionally robust,2
+dynamic structural,2
+models propose,2
+application perturbed,2
+growth premium,2
+larger cities,2
+firms coworkers,2
+job ladder,2
+urban wage growth,2
+wage growth premium,2
+urban wage growth premium,2
+dynamic spatial,2
+functional framework,2
+financial networks,2
+navierstokesbased approach,2
+dynamics european,2
+banking system,2
+systemic vulnerability,2
+continuous spatial,2
+financial stability,2
+dynamic spatial treatment,2
+continuous functional framework,2
+functional framework analyzing,2
+contagion dynamics european,2
+dynamics european banking,2
+european banking system,2
+continuous functional framework analyzing,2
+contagion dynamics european banking,2
+offers ultimatum,2
+provides unifying,2
+necessary sufficient,2
+two types,2
+positive offers ultimatum,2
+offers ultimatum game,2
+positive offers ultimatum game,2
+whitecollar work,2
+new technologies,2
+environmental assets,2
+open closed,2
+loop nash,2
+nash equilibria,2
+open closed loop,2
+closed loop nash,2
+loop nash equilibria,2
+open closed loop nash,2
+closed loop nash equilibria,2
+open closed loop nash equilibria,2
+hypothesis tests,2
+hypothesis testing,2
+oracle performance,2
+separating menus,2
+bank digital,2
+digital currency,2
+agentbased model,2
+firms banks,2
+banks households,2
+central bank digital,2
+bank digital currency,2
+firms banks households,2
+central bank digital currency,2
+model candidates,2
+analysis identifies,2
+reveals structural,2
+slim stochastic,2
+learning inference,2
+inference overidentified,2
+overidentified models,2
+fullsample gmm,2
+debiased plugin,2
+slim stochastic learning,2
+stochastic learning inference,2
+learning inference overidentified,2
+inference overidentified models,2
+slim stochastic learning inference,2
+stochastic learning inference overidentified,2
+learning inference overidentified models,2
+slim stochastic learning inference overidentified,2
+stochastic learning inference overidentified models,2
+discrete screening,2
+model agents,2
+screening problem,2
+beliefs types,2
+types agent,2
+incentive raise,2
+principals awareness,2
+principal ante,2
+ante unaware,2
+three types,2
+principal initially,2
+initially aware,2
+principal ante unaware,2
+types principal initially,2
+principal initially aware,2
+types principal initially aware,2
+convex function,2
+function intervals,2
+problems typedependent,2
+typedependent participation,2
+participation constraints,2
+lower level,2
+convex function intervals,2
+typedependent participation constraints,2
+consumption behavior,2
+findings recent,2
+substantially higher,2
+lower consumption,2
+consumption levels,2
+current economic,2
+economic conditions,2
+key findings recent,2
+lower consumption levels,2
+current economic conditions,2
+bilevel programming,2
+bilevel problems,2
+upperlevel problem,2
+setvalued formulation,2
+general case,2
+box absorption,2
+large language,2
+language models,2
+large language models,2
+fair selection,2
+meritocratic systems,2
+processes model,2
+spatial boundaries,2
+boundaries emergency,2
+navierstokes framework,2
+information system,2
+response effectiveness,2
+elderly populations,2
+differenceindifferences analysis,2
+spatial boundaries emergency,2
+treatment regimes,2
+state capacity,2
+capacity innovation,2
+innovation endogenous,2
+endogenous development,2
+state capacity innovation,2
+capacity innovation endogenous,2
+innovation endogenous development,2
+state capacity innovation endogenous,2
+capacity innovation endogenous development,2
+state capacity innovation endogenous development,2
+liquidity returns,2
+vector autoregression,2
+variance decompositions,2
+centralized markets,2
+study policy,2
+integrating transparent,2
+public nonprofit,2
+actionable caselevel,2
+results show,2
+integrating transparent models,2
+transparent models llms,2
+integrating transparent models llms,2
+learning abstention,2
+abstention policy,2
+policy learning abstention,2
+learning abstention policy,2
+policy learning abstention policy,2
+healthcare processspecialized,2
+contagion decay,2
+compensationbased risksharing,2
+payout fund,2
+receives payout fund,2
+platform work,2
+digital platform work,2
+government transparency,2
+capacity pleasure,2
+traditional statistical,2
+statistical features,2
