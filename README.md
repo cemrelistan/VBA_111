@@ -33,7 +33,7 @@ TermFlow/
 └── assets/               # Static images (Logo, Charts)
 
 
-🛠️ Installation
+## 🛠️ Installation
 Clone the repository:
 
 Bash
@@ -56,7 +56,7 @@ Install Dependencies:
 Bash
 
 pip install -r requirements.txt
-▶️ How to Run
+## ▶️ How to Run
 To start the web application, run the following command in your terminal:
 
 Bash
