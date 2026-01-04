@@ -33,7 +33,8 @@ TermFlow/
 └── assets/               # Static images (Logo, Charts)
 
 
-## 🛠️ Installation
+## 📂 Project Structure
+
 Clone the repository:
 
 Bash
