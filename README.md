@@ -17,6 +17,45 @@
     * **Future Prediction:** Linear Regression models to forecast term popularity for the next 3 years.
     * **Semantic Context:** N-Gram (Bigram) analysis to capture true meaning (e.g., "Deep Learning" instead of "Deep").
 
+## 🛠️ Installation
+
+1. Clone the repository:
+
+```bash
+git clone 
+cd termflow
+```
+
+2. Create a Virtual Environment (Recommended):
+
+For Windows:
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+For Mac/Linux:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+3. Install Dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+## ▶️ How to Run
+To start the web application, run the following command in your terminal:
+
+```bash
+streamlit run app.py
+```
+The application will automatically open in your default web browser at http://localhost:8501.
+ 
+  
 ## 📂 Project Structure
 
 ```bash
@@ -32,35 +71,4 @@ TermFlow/
 │   └── monthly_article_counts.csv
 └── assets/               # Static images (Logo, Charts)
 
-
-## 📂 Project Structure
-
-Clone the repository:
-
-Bash
-
-git clone [https://github.com/yourusername/termflow.git](https://github.com/yourusername/termflow.git)
-cd termflow
-Create a Virtual Environment (Recommended):
-
-Bash
-
-# Windows
-python -m venv venv
-venv\Scripts\activate
-
-# Mac/Linux
-python3 -m venv venv
-source venv/bin/activate
-Install Dependencies:
-
-Bash
-
-pip install -r requirements.txt
-## ▶️ How to Run
-To start the web application, run the following command in your terminal:
-
-Bash
-
-streamlit run app.py
-The application will automatically open in your default web browser at http://localhost:8501.
+##   
